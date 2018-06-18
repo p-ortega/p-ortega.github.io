@@ -4,18 +4,18 @@
 	
 <meta charset="utf-8">
 <title>Pagina de Hidrogeologia</title>
+<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 </head>
 <body>
 <header>
 	<h1>Hydrogeological planet!!</h1>
-<nav>
-	<ul>
-		<li><a href="{{site.baseurl}}index.html">Home</a></li>
-		<li><a href="{{site.baseurl}}new.html">News</a></li>
-	</ul>
-</nav>
+	{% include nav.html %}
 </header>
 {{content}}
 
+<footer>
+	{% include nav.html %}
+		<p> Portega! </p>
+</footer>
 </body>
 <hmtl>
