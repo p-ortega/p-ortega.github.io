@@ -6,10 +6,29 @@
     <description>Recent content in Tags on Pablo Ortega Tong</description>
     <image>
       <title>Pablo Ortega Tong</title>
-      <url>https://p-ortega.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://p-ortega.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://p-ortega.github.io/47</url>
+      <link>https://p-ortega.github.io/47</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://p-ortega.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jun 2023 20:26:47 +0800</lastBuildDate><atom:link href="https://p-ortega.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello</title>
+      <link>https://p-ortega.github.io/tags/hello/</link>
+      <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
+      
+      <guid>https://p-ortega.github.io/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://p-ortega.github.io/tags/me/</link>
+      <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
+      
+      <guid>https://p-ortega.github.io/tags/me/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

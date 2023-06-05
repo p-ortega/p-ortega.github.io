@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://p-ortega.github.io/about/</loc>
+    <lastmod>2023-06-05T20:26:47+08:00</lastmod>
+  </url><url>
+    <loc>https://p-ortega.github.io/tags/hello/</loc>
+    <lastmod>2023-06-05T20:26:47+08:00</lastmod>
+  </url><url>
+    <loc>https://p-ortega.github.io/tags/me/</loc>
+    <lastmod>2023-06-05T20:26:47+08:00</lastmod>
+  </url><url>
     <loc>https://p-ortega.github.io/</loc>
-    <lastmod>2023-06-05T18:26:24+08:00</lastmod>
+    <lastmod>2023-06-05T20:26:47+08:00</lastmod>
+  </url><url>
+    <loc>https://p-ortega.github.io/tags/</loc>
+    <lastmod>2023-06-05T20:26:47+08:00</lastmod>
   </url><url>
     <loc>https://p-ortega.github.io/test_docs/test/</loc>
     <lastmod>2023-06-05T18:26:24+08:00</lastmod>
@@ -14,7 +26,5 @@
     <loc>https://p-ortega.github.io/categories/</loc>
   </url><url>
     <loc>https://p-ortega.github.io/search/</loc>
-  </url><url>
-    <loc>https://p-ortega.github.io/tags/</loc>
   </url>
 </urlset>
