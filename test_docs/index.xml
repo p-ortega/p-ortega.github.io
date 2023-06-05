@@ -2,22 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Test_docs on Pablo Ortega Tong</title>
-    <link>/test_docs/</link>
+    <link>https://p-ortega.github.io/test_docs/</link>
     <description>Recent content in Test_docs on Pablo Ortega Tong</description>
-    <image>
-      <title>Pablo Ortega Tong</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jun 2023 18:26:24 +0800</lastBuildDate><atom:link href="/test_docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 18:26:24 +0800</lastBuildDate><atom:link href="https://p-ortega.github.io/test_docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test page</title>
-      <link>/test_docs/test/</link>
+      <link>https://p-ortega.github.io/test_docs/test/</link>
       <pubDate>Mon, 05 Jun 2023 18:26:24 +0800</pubDate>
       
-      <guid>/test_docs/test/</guid>
+      <guid>https://p-ortega.github.io/test_docs/test/</guid>
       <description>Test file title 1 This is a test page This is a test page This is a test page This is a test page
 - This is a test page - This is a test page - This is a test page Syntax Description Header Title Paragraph Text ``` Look! You can see my backticks. ``` Title 2 Other title </description>
     </item>
