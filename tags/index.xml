@@ -4,6 +4,11 @@
     <title>Tags on Pablo Ortega Tong</title>
     <link>https://p-ortega.github.io/tags/</link>
     <description>Recent content in Tags on Pablo Ortega Tong</description>
+    <image>
+      <title>Pablo Ortega Tong</title>
+      <url>https://p-ortega.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://p-ortega.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://p-ortega.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
