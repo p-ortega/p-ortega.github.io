@@ -18,15 +18,16 @@
       <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
       
       <guid>https://p-ortega.github.io/about/</guid>
-      <description>Hi there 👋 I&amp;rsquo;m Pablo, a geoscientist with nine years of extensive experience in consulting (hydrogeology and hydrochemistry) and research, and about to complete my PhD in geochemistry and reactive transport modelling at the University of Western Australia. I have experience simulating, predicting, and quantifying the fate and transport of contaminants and metals in groundwater (e.g., PFAS and Cu$^{2+}$) and modelling the in-situ metal recovery via dissolution and transport processes.</description>
+      <description>Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in hydrogeochemistry. Currently, I&amp;rsquo;m just about to wrap up my PhD in geochemistry and reactive transport modeling at the University of Western Australia in Perth.
+I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater.</description>
     </item>
     
     <item>
       <title>Test page</title>
-      <link>https://p-ortega.github.io/test_docs/test/</link>
+      <link>https://p-ortega.github.io/posts/test/</link>
       <pubDate>Mon, 05 Jun 2023 18:26:24 +0800</pubDate>
       
-      <guid>https://p-ortega.github.io/test_docs/test/</guid>
+      <guid>https://p-ortega.github.io/posts/test/</guid>
       <description>Test file title 1 This is a test page This is a test page This is a test page This is a test page
 - This is a test page - This is a test page - This is a test page Syntax Description Header Title Paragraph Text ``` Look! You can see my backticks. ``` Title 2 Other title </description>
     </item>
