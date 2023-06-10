@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>thesis on Pablo Ortega Tong</title>
-    <link>https://p-ortega.github.io/tags/thesis/</link>
-    <description>Recent content in thesis on Pablo Ortega Tong</description>
+    <title>modelling on Pablo Ortega Tong</title>
+    <link>https://p-ortega.github.io/tags/modelling/</link>
+    <description>Recent content in modelling on Pablo Ortega Tong</description>
     <image>
       <title>Pablo Ortega Tong</title>
       <url>https://p-ortega.github.io/47</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate><atom:link href="https://p-ortega.github.io/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cu-ISR - Intro</title>
-      <link>https://p-ortega.github.io/posts/cu-isr-intro/</link>
-      <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
-      <guid>https://p-ortega.github.io/posts/cu-isr-intro/</guid>
-      <description>One of the main reasons for starting to write posts on this website was to prepare for my viva or PhD defense. As you may not know, my PhD focused on the reactive transport and geochemistry of in-situ recovery of copper, also known as Cu-ISR. I find Cu-ISR and ISR in general quite fascinating. One of the biggest challenges of this technology, especially for Cu and other metals, is the lack of predictive reactive transport models that can accurately forecast recovery and financial success while ensuring minimal environmental disturbance.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate><atom:link href="https://p-ortega.github.io/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cu-ISR - Reactive Transport Modelling - Part 1</title>
       <link>https://p-ortega.github.io/posts/cu-isr-rtm-part1/</link>

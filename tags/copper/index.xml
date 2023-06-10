@@ -13,12 +13,21 @@
     <language>en</language>
     <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate><atom:link href="https://p-ortega.github.io/tags/copper/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cu-ISR Part 1 - Intro</title>
+      <title>Cu-ISR - Intro</title>
       <link>https://p-ortega.github.io/posts/cu-isr-intro/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
       
       <guid>https://p-ortega.github.io/posts/cu-isr-intro/</guid>
       <description>One of the main reasons for starting to write posts on this website was to prepare for my viva or PhD defense. As you may not know, my PhD focused on the reactive transport and geochemistry of in-situ recovery of copper, also known as Cu-ISR. I find Cu-ISR and ISR in general quite fascinating. One of the biggest challenges of this technology, especially for Cu and other metals, is the lack of predictive reactive transport models that can accurately forecast recovery and financial success while ensuring minimal environmental disturbance.</description>
+    </item>
+    
+    <item>
+      <title>Cu-ISR - Reactive Transport Modelling - Part 1</title>
+      <link>https://p-ortega.github.io/posts/cu-isr-rtm-part1/</link>
+      <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
+      
+      <guid>https://p-ortega.github.io/posts/cu-isr-rtm-part1/</guid>
+      <description>Motivation The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings.</description>
     </item>
     
   </channel>
