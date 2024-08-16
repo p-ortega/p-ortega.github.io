@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>me on Pablo Ortega Tong</title>
+    <title>Me on Pablo Ortega Tong</title>
     <link>https://www.dispersivity.com/tags/me/</link>
-    <description>Recent content in me on Pablo Ortega Tong</description>
+    <description>Recent content in Me on Pablo Ortega Tong</description>
     <image>
       <title>Pablo Ortega Tong</title>
       <url>https://www.dispersivity.com/47</url>
@@ -18,8 +18,8 @@
       <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
       
       <guid>https://www.dispersivity.com/about/</guid>
-      <description>Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in hydrogeochemistry. Currently, I&amp;rsquo;m just about to wrap up my PhD in geochemistry and reactive transport modeling at the University of Western Australia in Perth.
-I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater.</description>
+      <description>Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in numerical modeling.
+I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater. Whether it&amp;rsquo;s tracking PFAS, Cu2+ or hydrocarbons, I love digging into the nitty-gritty of their fate and transport.</description>
     </item>
     
   </channel>
