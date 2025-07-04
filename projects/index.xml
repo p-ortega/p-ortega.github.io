@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Pablo Ortega Tong</title>
+    <link>https://www.dispersivity.com/projects/</link>
+    <description>Recent content in Projects on Pablo Ortega Tong</description>
+    <image>
+      <title>Pablo Ortega Tong</title>
+      <url>https://www.dispersivity.com/47</url>
+      <link>https://www.dispersivity.com/47</link>
+    </image>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.dispersivity.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mf6rtm</title>
+      <link>https://www.dispersivity.com/projects/mf6rtm/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dispersivity.com/projects/mf6rtm/</guid>
+      <description>A python package for reactive transport modeling via the MODFLOW 6 and PhreeqcRM APIs</description>
+    </item>
+    <item>
+      <title> Surrogates</title>
+      <link>https://www.dispersivity.com/projects/rtm_surrogates/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dispersivity.com/projects/rtm_surrogates/</guid>
+      <description>Machine Learning Surrogates for RM</description>
+    </item>
+  </channel>
+</rss>

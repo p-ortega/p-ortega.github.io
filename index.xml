@@ -9,48 +9,56 @@
       <url>https://www.dispersivity.com/47</url>
       <link>https://www.dispersivity.com/47</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2023 21:16:40 +0800</lastBuildDate><atom:link href="https://www.dispersivity.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.dispersivity.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mf6rtm</title>
+      <link>https://www.dispersivity.com/projects/mf6rtm/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dispersivity.com/projects/mf6rtm/</guid>
+      <description>A python package for reactive transport modeling via the MODFLOW 6 and PhreeqcRM APIs</description>
+    </item>
+    <item>
+      <title> Surrogates</title>
+      <link>https://www.dispersivity.com/projects/rtm_surrogates/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dispersivity.com/projects/rtm_surrogates/</guid>
+      <description>Machine Learning Surrogates for RM</description>
+    </item>
     <item>
       <title>Publications</title>
       <link>https://www.dispersivity.com/publications/</link>
       <pubDate>Sat, 10 Jun 2023 21:16:40 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/publications/</guid>
-      <description>Alrighty! I told you&amp;hellip; This blog is also for some shameless self-promotion. Here is the list of publications and conferences I&amp;rsquo;ve made in my career. Tbh mostly academic wankey here.
-Journals Barron, A., Jamieson, J., Colombani, N., Bostick, B.C., Ortega-Tong, P., Sbarbati, C., Barbieri, M., Petitta, M., Prommer, H. 2024. Model-Based Analysis of Arsenic Retention by Stimulated Iron Mineral Transformation under Coastal Aquifer Conditions. ACS ES&amp;amp;T Water 2024 4 (7), 2944-2956.</description>
+      <description>&lt;p&gt;Alrighty! I told you&amp;hellip; This blog is also for some shameless self-promotion. Here is the list of publications and conferences I&amp;rsquo;ve made in my career. Tbh mostly academic wankey here.&lt;/p&gt;
+&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
+&lt;p&gt;Barron, A., Jamieson, J., Colombani, N., Bostick, B.C., &lt;strong&gt;Ortega-Tong, P.&lt;/strong&gt;, Sbarbati, C., Barbieri, M., Petitta, M., Prommer, H. 2024. Model-Based Analysis of Arsenic Retention by Stimulated Iron Mineral Transformation under Coastal Aquifer Conditions. ACS ES&amp;amp;T Water 2024 4 (7), 2944-2956. &lt;a href=&#34;https://doi.org/10.1021/acsestwater.4c00134&#34;&gt;https://doi.org/10.1021/acsestwater.4c00134&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cu-ISR - Intro</title>
       <link>https://www.dispersivity.com/posts/cu-isr-intro/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/posts/cu-isr-intro/</guid>
-      <description>One of the main reasons for starting to write posts on this website was to prepare for my viva or PhD defense. As you may not know, my PhD focused on the reactive transport and geochemistry of in-situ recovery of copper, also known as Cu-ISR. I find Cu-ISR and ISR in general quite fascinating. One of the biggest challenges of this technology, especially for Cu and other metals, is the lack of predictive reactive transport models that can accurately forecast recovery and financial success while ensuring minimal environmental disturbance.</description>
+      <description>&lt;!-- ## Intro to In-situ recovery of Copper --&gt;
+&lt;p&gt;One of the main reasons for starting to write posts on this website was to prepare for my viva or PhD defense. As you may not know, my PhD focused on the reactive transport and geochemistry of in-situ recovery of copper, also known as Cu-ISR. I find Cu-ISR and ISR in general quite fascinating. One of the biggest challenges of this technology, especially for Cu and other metals, is the lack of predictive reactive transport models that can accurately forecast recovery and financial success while ensuring minimal environmental disturbance. However, that&amp;rsquo;s a story for another post. In this intro post, I will introduce conventional Cu-ISR. We will explore later why I refer to hydraulic-driven Cu-ISR as &amp;ldquo;conventional,&amp;rdquo; but for now, let&amp;rsquo;s delve into the key concepts and see if I can convince you that Cu-ISR has great potential for future applications. Please note that most of this text is copied from my PhD thesis, so there may be some self-copyright infringement, but hey, free information is free information, right?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cu-ISR - Reactive Transport Modelling - Part 1</title>
       <link>https://www.dispersivity.com/posts/cu-isr-rtm-part1/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/posts/cu-isr-rtm-part1/</guid>
-      <description>Motivation The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings.</description>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings. Many past endeavours had failed to be economically feasible, with little information about why they failed. I think the failure comes from the complexity of ore, which is usually overlooked.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About me</title>
       <link>https://www.dispersivity.com/about/</link>
       <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/about/</guid>
-      <description>Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in numerical modeling.
-I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater. Whether it&amp;rsquo;s tracking PFAS, Cu2+ or hydrocarbons, I love digging into the nitty-gritty of their fate and transport.</description>
+      <description>&lt;p&gt;Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in numerical modeling.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater. Whether it&amp;rsquo;s tracking PFAS, Cu&lt;sup&gt;2+&lt;/sup&gt; or hydrocarbons, I love digging into the nitty-gritty of their fate and transport. I&amp;rsquo;m also pretty enthusiastic about modeling in-situ metal recovery, figuring out how we can dissolve and transport metals right where they are underground (decarbonisation is totally hyping this up). I&amp;rsquo;m keen to applied uncertainty analysis and optimization for reactive transport and transport-only problems.&lt;/p&gt;</description>
     </item>
-    
-    
-    
   </channel>
 </rss>

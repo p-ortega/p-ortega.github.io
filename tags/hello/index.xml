@@ -9,18 +9,17 @@
       <url>https://www.dispersivity.com/47</url>
       <link>https://www.dispersivity.com/47</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jun 2023 20:26:47 +0800</lastBuildDate><atom:link href="https://www.dispersivity.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 20:26:47 +0800</lastBuildDate>
+    <atom:link href="https://www.dispersivity.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://www.dispersivity.com/about/</link>
       <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/about/</guid>
-      <description>Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in numerical modeling.
-I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater. Whether it&amp;rsquo;s tracking PFAS, Cu2+ or hydrocarbons, I love digging into the nitty-gritty of their fate and transport.</description>
+      <description>&lt;p&gt;Hey there! 👋 I&amp;rsquo;m Pablo, originally from Chile but now enjoying life in the beautiful country of Aus (Perth - mind the gap). I&amp;rsquo;m a computational geoscientist with a solid nine years of experience in consulting, specializing in numerical modeling.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a huge fan of simulating, predicting, and quantifying how contaminants move around in groundwater. Whether it&amp;rsquo;s tracking PFAS, Cu&lt;sup&gt;2+&lt;/sup&gt; or hydrocarbons, I love digging into the nitty-gritty of their fate and transport. I&amp;rsquo;m also pretty enthusiastic about modeling in-situ metal recovery, figuring out how we can dissolve and transport metals right where they are underground (decarbonisation is totally hyping this up). I&amp;rsquo;m keen to applied uncertainty analysis and optimization for reactive transport and transport-only problems.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

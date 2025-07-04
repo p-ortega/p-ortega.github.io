@@ -9,80 +9,65 @@
       <url>https://www.dispersivity.com/47</url>
       <link>https://www.dispersivity.com/47</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate><atom:link href="https://www.dispersivity.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate>
+    <atom:link href="https://www.dispersivity.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copper</title>
       <link>https://www.dispersivity.com/tags/copper/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/copper/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>In-Situ Recovery</title>
       <link>https://www.dispersivity.com/tags/in-situ-recovery/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/in-situ-recovery/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Modelling</title>
       <link>https://www.dispersivity.com/tags/modelling/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/modelling/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reactive Transport</title>
       <link>https://www.dispersivity.com/tags/reactive-transport/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/reactive-transport/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rtm</title>
       <link>https://www.dispersivity.com/tags/rtm/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/rtm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Thesis</title>
       <link>https://www.dispersivity.com/tags/thesis/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/thesis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hello</title>
       <link>https://www.dispersivity.com/tags/hello/</link>
       <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/hello/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Me</title>
       <link>https://www.dispersivity.com/tags/me/</link>
       <pubDate>Mon, 05 Jun 2023 20:26:47 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/tags/me/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

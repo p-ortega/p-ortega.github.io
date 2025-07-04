@@ -9,17 +9,17 @@
       <url>https://www.dispersivity.com/47</url>
       <link>https://www.dispersivity.com/47</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate><atom:link href="https://www.dispersivity.com/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate>
+    <atom:link href="https://www.dispersivity.com/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cu-ISR - Reactive Transport Modelling - Part 1</title>
       <link>https://www.dispersivity.com/posts/cu-isr-rtm-part1/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/posts/cu-isr-rtm-part1/</guid>
-      <description>Motivation The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings.</description>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings. Many past endeavours had failed to be economically feasible, with little information about why they failed. I think the failure comes from the complexity of ore, which is usually overlooked.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

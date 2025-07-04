@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.dispersivity.com/projects/mf6rtm/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.dispersivity.com/</loc>
-    <lastmod>2023-06-10T21:16:40+08:00</lastmod>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dispersivity.com/projects/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dispersivity.com/projects/rtm_surrogates/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dispersivity.com/publications/</loc>
     <lastmod>2023-06-10T21:16:40+08:00</lastmod>

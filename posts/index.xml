@@ -9,26 +9,25 @@
       <url>https://www.dispersivity.com/47</url>
       <link>https://www.dispersivity.com/47</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate><atom:link href="https://www.dispersivity.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 21:56:56 +0800</lastBuildDate>
+    <atom:link href="https://www.dispersivity.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cu-ISR - Intro</title>
       <link>https://www.dispersivity.com/posts/cu-isr-intro/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/posts/cu-isr-intro/</guid>
-      <description>One of the main reasons for starting to write posts on this website was to prepare for my viva or PhD defense. As you may not know, my PhD focused on the reactive transport and geochemistry of in-situ recovery of copper, also known as Cu-ISR. I find Cu-ISR and ISR in general quite fascinating. One of the biggest challenges of this technology, especially for Cu and other metals, is the lack of predictive reactive transport models that can accurately forecast recovery and financial success while ensuring minimal environmental disturbance.</description>
+      <description>&lt;!-- ## Intro to In-situ recovery of Copper --&gt;
+&lt;p&gt;One of the main reasons for starting to write posts on this website was to prepare for my viva or PhD defense. As you may not know, my PhD focused on the reactive transport and geochemistry of in-situ recovery of copper, also known as Cu-ISR. I find Cu-ISR and ISR in general quite fascinating. One of the biggest challenges of this technology, especially for Cu and other metals, is the lack of predictive reactive transport models that can accurately forecast recovery and financial success while ensuring minimal environmental disturbance. However, that&amp;rsquo;s a story for another post. In this intro post, I will introduce conventional Cu-ISR. We will explore later why I refer to hydraulic-driven Cu-ISR as &amp;ldquo;conventional,&amp;rdquo; but for now, let&amp;rsquo;s delve into the key concepts and see if I can convince you that Cu-ISR has great potential for future applications. Please note that most of this text is copied from my PhD thesis, so there may be some self-copyright infringement, but hey, free information is free information, right?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cu-ISR - Reactive Transport Modelling - Part 1</title>
       <link>https://www.dispersivity.com/posts/cu-isr-rtm-part1/</link>
       <pubDate>Tue, 06 Jun 2023 21:56:56 +0800</pubDate>
-      
       <guid>https://www.dispersivity.com/posts/cu-isr-rtm-part1/</guid>
-      <description>Motivation The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings.</description>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;The next series of blog posts will focus on reactive transport modelling (RTM) and how it can help unlock the potential of in situ recovery for metals such as Cu. Reactive transport models, or RTMs, combine fluid dynamics, chemical equilibrium and kinetics principles, and geology to model the movement and transformation of solutes in complex geological systems. As mentioned in the previous post, ISR mainly operates in complex geological settings. Many past endeavours had failed to be economically feasible, with little information about why they failed. I think the failure comes from the complexity of ore, which is usually overlooked.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
