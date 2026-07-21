@@ -14,7 +14,7 @@
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.dispersivity.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>mf6rtm — Reactive Transport in Python with MODFLOW 6 &amp; PHREEQC</title>
+      <title>mf6rtm — Reactive Transport in Python with MODFLOW 6 and PHREEQC</title>
       <link>https://www.dispersivity.com/projects/mf6rtm/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://www.dispersivity.com/projects/mf6rtm/</guid>
